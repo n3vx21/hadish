@@ -1,2 +1,0 @@
-# hadish
-Coba deh
